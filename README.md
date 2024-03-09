@@ -1,6 +1,5 @@
 # Image_Reconstruction
 
-We # Image_Reconstruction
 
 This project focuses on the application of Linear Regression and Random Fourier Features for Image Reconstruction.
 
